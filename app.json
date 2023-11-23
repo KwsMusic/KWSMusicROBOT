@@ -1,7 +1,7 @@
 {
-    "name": "Alexa Music",
+    "name": "༄ᵒ᭄☯︎Asʜɪsʜ乂GUPTA࿐ 🇮🇳",
     "description": "Deploy Alexa music on railwey make sure to star the projecte.",
-    "logo": "https://telegra.ph/file/ba967503682a55beaedd3.png",
+    "logo": "https://i.postimg.cc/QMt2kYS5/20231117-233101.png",
     "keywords": [
     "python3",
     "telegram",
@@ -30,12 +30,12 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5303133436",
+        "value": "6052880487",
         "required": true
       },        
       "MONGO_DB_URI": {
         "description": "Mongo DB URL",
-        "value": "",
+        "value": "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "STRING_SESSION": {
@@ -55,7 +55,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001822336951",
         "required": true
       }
     },
