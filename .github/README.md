@@ -1,13 +1,13 @@
-<h1 align="center"><b>❤️ ALEXA MUSIC 2.0 ❤️</b></h1>
+<h1 align="center"><b>༄ᵒ᭄☯︎Asʜɪsʜ乂GUPTA࿐ 🇮🇳</b></h1>
 
 <h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/f6064bc90cc76e59015b2.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/L2R_KING0"><img src="https://i.postimg.cc/QtJ5MjNN/20231117-233810.png" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/TheTeamAlexa/AlexaMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://img.shields.io/github/repo-size/TheTeamAlexa/AlexaMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamAlexa/AlexaMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/TheTeamAlexa/AlexaMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/KwsMusic/KWSMusicROBOT/commits/prince"> <img src="https://img.shields.io/github/last-commit/TheTeamAlexa/AlexaMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/TheTeamAlexa/AlexaMusic/issues"> <img src="https://img.shields.io/github/issues/TheTeamAlexa/AlexaMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/TheTeamAlexa/AlexaMusic/network/members"> <img src="https://img.shields.io/github/forks/TheTeamAlexa/AlexaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
@@ -103,7 +103,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
-<p><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p><a href="https://my.scalingo.com/deploy?template=https://github.com/KwsMusic/KWSMusicROBOT"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 <summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
 <br>
@@ -128,7 +128,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTheTeamAlexa%2FAlexaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴏʀ  ᴀᴄᴄᴏᴜɴᴛ sᴜsᴘᴇɴsɪᴏɴ ɪssᴜᴇ ᴛᴏ ʙʏᴘᴀss ᴀɴʏ ʀᴇsᴛʀɪᴄᴛɪᴏɴ ᴏɴ ʜᴇʀᴏᴋᴜ ᴏʀ ʀᴀɪʟᴡᴇʏ</h4>    
-<a href="https://github.com/TheTeamAlexa/AlexaMusic-Bypass"><img src="https://img.shields.io/badge/Alexa-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a>
+<a href="https://github.com/KwsMusic/KWSMusicROBOT-Bypass"><img src="https://img.shields.io/badge/Alexa-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a>
 
 <h1 align="center"><b>❤️ ᴏᴡɴᴇʀ ᴀɴᴅ ᴄʀᴇᴅɪᴛ ❤️</b></h1>
 <details>
